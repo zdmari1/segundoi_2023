@@ -1,7 +1,18 @@
 .menu {
     background: rgb(177, 106, 177) ;
+    width: 0;
+    height: 0;
 }
 
-.conteudo{
-    
+
+    :root {
+        --lilás-principal:#cb91e5;
+        --lilás-secundário: #ac6ac7;    
+        --botão-lilás: #935bb1;
+        --cor-de-fundo: #d6acec;
+
+    }
+*{
+
 }
+    
