@@ -12,8 +12,8 @@
     }
 
 .menu {
-    height: 10%%;
-    width: 100%;
+    height: 1080px;
+    width: 1350px;
     background: var(--cor-de-fundo)
 }
 
@@ -36,9 +36,10 @@
 }
 .rodape {
     width: 1000%;
-    height: 800%;
+    height: 100%;
     border: none;
     background: #ac6ac7;
+    position: absolute;
 }
 .ajuda {
     font-size: 25%;
