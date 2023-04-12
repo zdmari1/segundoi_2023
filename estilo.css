@@ -35,8 +35,8 @@
     color: purple;
 }
 .rodape {
-    width: 1000px;
-    height: 800px;
+    width: 1000%;
+    height: 800%;
     border: none;
     background: #ac6ac7;
 }
