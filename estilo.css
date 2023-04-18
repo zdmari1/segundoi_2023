@@ -34,14 +34,11 @@
   image-orientation: center;
 }
 
-}
+
 .introducao {
-    font-size: 30px;
+    font-size: 20px;
 }
 
-.texto {
-    font-size: 25px;
-}
 .title {
     font-size: 45px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -57,32 +54,7 @@
 
 }
 .ajuda {
-    font-size: 25%;
+    font-size: 20px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
 }
-.pagina01 {
-    height: 45px;
-    width: 100%;
-    background: var(--cor-de-fundo)
-}
-.rodapeA {
-  height: 100%;
-  background: #ac6ac7;
-}
-.ajudaA {
-    font-size: 20%;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
-}
-.pagina02 {
-    height: 45px;
-    width: 100%;
-    background: var(--cor-de-fundo)
-}
-.rodapeB {
-  height: 100%;
-  background: #ac6ac7;
-}
-.ajudaB {
-    font-size: 20%;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
-}
+
