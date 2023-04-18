@@ -1,6 +1,6 @@
 :root {
     --lilas-principal:#cb91e5;
-    --lilas-secundario: #ac6ac7;    
+    --lilas-secundario: #ac6ac7;
     --botao-lilas: #935bb1;
     --cor-de-fundo: #d6acec;
 
@@ -12,18 +12,31 @@
     }
 
 .menu {
-    height: 1980px;
-    width: 100px;
-    background: var(--cor-de-fundo)
+  height: 105px;
+  width: 100%;
+  background: #d6acec;
+  position: relative;
+  top: 0;
+  left: 0;
+  display: inline-flex;
+  justify-content: space-around;
+}
+.lista-item {
+  margin: 0 20;
+  display: inline-block;
+
 }
 
-#violenciadomestica {
-    width: 200px;
-    height: 300px;
-    border: none;
+#violencia {
+  width: 100%;
+  height: 90px;
+  border: none;
+  image-orientation: center;
+}
+
 }
 .introducao {
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .texto {
@@ -35,41 +48,39 @@
     color: purple;
 }
 .rodape {
-    width: 1000%;
-    height: 100%;
-    border: none;
+    height: 5%;
+    width: 100%;
     background: #ac6ac7;
-  
+    position: absolute;
+    bottom: 0;
+
+
 }
 .ajuda {
     font-size: 25%;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
 }
 .pagina01 {
-    height: 20%;
+    height: 45px;
     width: 100%;
     background: var(--cor-de-fundo)
 }
 .rodapeA {
-    width: 100px;
-    height: 200px;
-    border: none;
-    background: #ac6ac7;
+  height: 100%;
+  background: #ac6ac7;
 }
 .ajudaA {
     font-size: 20%;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
 }
 .pagina02 {
-    height: 20%;
+    height: 45px;
     width: 100%;
     background: var(--cor-de-fundo)
 }
 .rodapeB {
-    width: 100px;
-    height: 200px;
-    border: none;
-    background: #ac6ac7;
+  height: 100%;
+  background: #ac6ac7;
 }
 .ajudaB {
     font-size: 20%;
